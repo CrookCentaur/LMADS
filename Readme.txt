@@ -3,7 +3,7 @@
 
 ----------About:
 The Logistic Management and Delivery Systems brings to you the power of Logistic Management processes into one simple format. The Dashboard shows you how many parcels are inbound in different stages of delivery. The system enables you to add different branches for the parcel to be picked up and delivered to. You can also add different personnel in the staff section. Once the parcel is logged in, the system creates a UID (tracking number) which you can use in the "Track Parcel" section to track the delivery status of your system. This forms the main heart of the system. The "Reports" Section acts as a filter to overview all incoming or outgoing parcels filtered according to type and/or dates.
-===============================================================================================================================================
+================================================================================================================================
 
 ----------Features:
 ```Admin Side:
